@@ -32,8 +32,9 @@ h5 {
 
 #wrapper h1 {
 	font-weight: 300;
-	font-size: 50px;
+	font-size: 90px;
 	padding-bottom: 90px;
+  font-family: 'Cookie', sans-serif;
 }
 
 #wrapper h2 {
