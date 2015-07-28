@@ -32,7 +32,7 @@ h5 {
 
 #wrapper h1 {
 	font-weight: 300;
-	font-size: 80px;
+	font-size: 70px;
 	padding-bottom: 90px;
 }
 
@@ -128,7 +128,7 @@ h3 {
 }
 
 .mini-spacer {
-  height: 2em;
+  height: 3em;
 }
 
 #exp {
@@ -153,7 +153,7 @@ padding-bottom: 20px;
 
 
 hr {
-	width: 75%;
+	width: 65%;
 	height: 1px;
 	background-color: #998BC1;
 	border: 0 none;
