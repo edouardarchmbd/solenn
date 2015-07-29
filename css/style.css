@@ -23,7 +23,12 @@ h5 {
 #wrapper {
 	background-image: url(../images/cover.jpg);
 	height: 710px;
-	background-size: cover;
+  background-repeat:no-repeat;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-position:center;;
 	background-attachment: fixed;
 	text-align: center;
 	color: white;
