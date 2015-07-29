@@ -24,7 +24,7 @@ h5 {
 	background-image: url(../images/cover.jpg);
 	height: 710px;
 	background-size: cover;
-	background-attachment: fixed;
+	background-attachment: scroll;
 	text-align: center;
 	color: white;
 	padding-top: 170px;
