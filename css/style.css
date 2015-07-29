@@ -24,7 +24,7 @@ h5 {
 	background-image: url(../images/cover.jpg);
 	height: 710px;
   background-repeat:no-repeat;
-  background-size:100%;
+  background-size:cover;
   background-position:center;
 	background-attachment: fixed;
 	text-align: center;
